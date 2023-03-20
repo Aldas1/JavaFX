@@ -1,0 +1,58 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mortgageCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mortgageCalculator_jar</output-path>
+    <root id="archive" name="mortgageCalculator.jar">
+      <element id="module-output" name="mortgageCalculator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19.0.2.1/javafx-graphics-19.0.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19.0.2.1/javafx-controls-19.0.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/19.0.2.1/javafx-controls-19.0.2.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19.0.2.1/javafx-base-19.0.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19.0.2.1/javafx-fxml-19.0.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi/5.2.2/poi-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/19.0.2.1/javafx-graphics-19.0.2.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/19.0.2.1/javafx-base-19.0.2.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/19.0.2.1/javafx-fxml-19.0.2.1-linux.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.properties" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/javafx.web.jar" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-54.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-56.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-57.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-ffmpeg-56.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-ffmpeg-57.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libavplugin-ffmpeg-58.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libdecora_sse.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libfxplugins.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libglass.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libglassgtk2.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libglassgtk3.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libgstreamer-lite.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjavafx_font.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjavafx_font_freetype.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjavafx_font_pango.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjavafx_iio.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjfxmedia.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libjfxwebkit.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libprism_common.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libprism_es2.so" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib/libprism_sw.so" />
+    </root>
+  </artifact>
+</component>
