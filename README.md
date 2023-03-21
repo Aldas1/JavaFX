@@ -1,2 +1,2 @@
-# JavaFX
-Repo containing different projects written in JavaFX
+# Mortgage calculator
+Mortgage calculator written in JavaFX
